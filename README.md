@@ -1,6 +1,8 @@
 # revisi_film
 
 A new Flutter project.
+<br>
+alamat API yang digunakan: https://www.omdbapi.com/
 
 ## Getting Started
 
